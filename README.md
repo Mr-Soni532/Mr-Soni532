@@ -1,4 +1,4 @@
-[![Bhupender's GitHub Banner](./github_header_type.gif)]()
+[![Bhupender's GitHub Banner](./github_header_2.gif)]()
 
 <header>
   <div align="center">
