@@ -1,5 +1,7 @@
 [![Bhupender's GitHub Banner](./github_header_2.gif)]()
-
+[![](https://mr-soni532.github.io/)]()
+[![](https://www.linkedin.com/in/bhupender-soni/)]()
+[![](https://twitter.com/bhupender_sonii)]()
 <header>
   <div align="center">
     <a href="https://www.linkedin.com/in/bhupender-soni/">
@@ -11,6 +13,7 @@
     <a href="https://mr-soni532.github.io/">
      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Portfolio&style=flat&logo=amp&logoColor=ffffff&labelColor=161937">
     </a>
+  
   </div>
 </header>
 
