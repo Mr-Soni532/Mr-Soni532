@@ -9,7 +9,7 @@
       <img alt="My Twitter Profile" src="https://img.shields.io/badge/Twitter-@bhupender_sonii-7733ff?style=flat&logo=twitter&logoColor=ffffff&labelColor=161937">
     </a>
     <a href="https://mr-soni532.github.io/">
-     <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Portfolio&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
+     <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Portfolio&style=flat&logo=amp&logoColor=ffffff&labelColor=161937">
     </a>
   </div>
 </header>
