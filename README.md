@@ -1,7 +1,7 @@
-[![Bhupender's GitHub Banner](./github_header_2.gif)]()
-[![](https://mr-soni532.github.io/)]()
-[![](https://www.linkedin.com/in/bhupender-soni/)]()
-[![](https://twitter.com/bhupender_sonii)]()
+<!-- [![Bhupender's GitHub Banner](./github_header_2.gif)]() -->
+<img src="./github_header_2.gif"/>
+<br>
+<br>
 <header>
   <div align="center">
     <a href="https://www.linkedin.com/in/bhupender-soni/">
@@ -10,10 +10,9 @@
     <a href="https://twitter.com/bhupender_sonii">
       <img alt="My Twitter Profile" src="https://img.shields.io/badge/Twitter-@bhupender_sonii-7733ff?style=flat&logo=twitter&logoColor=ffffff&labelColor=161937">
     </a>
-    <a href="https://mr-soni532.github.io/">
-     <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Portfolio&style=flat&logo=amp&logoColor=ffffff&labelColor=161937">
+     <a href="https://mr-soni532.github.io">
+      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Portfolio&style=flat&logo=amp&logoColor=ffffff&labelColor=161937">
     </a>
-  
   </div>
 </header>
 
